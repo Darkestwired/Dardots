@@ -1,0 +1,2 @@
+# Dardots
+Dots for Hyprland
